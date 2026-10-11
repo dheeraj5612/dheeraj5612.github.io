@@ -4,7 +4,9 @@ Static portfolio for [dheerajnamburu.com](https://dheerajnamburu.com/), publishe
 
 The first screen prioritizes Microsoft experience, AI delivery impact, work bullets, independent products, and contact links. Additional engineering detail, full app images, earlier experience, and technical skills follow.
 
-The main product previews use a three column row beside Microsoft work bullets on desktop. The geometric DN logo and favicon share custom vector letterforms in navy, white, and blue. SVG, ICO, and Apple touch icon variants are in `assets/brand/`.
+The main product previews use a three column row beside Microsoft work bullets on desktop. The selected logo and favicon use a clipped corner D in navy, white, and blue, chosen after reviewing twenty concepts at 16 and 32 pixels. SVG, ICO, and Apple touch icon variants are in `assets/brand/`.
+
+Mobile uses a compact career summary, three work highlights, and a two column product grid with a full width FilmyCam row. Full career history and engineering detail remain below the first screen. Project cards reveal in a short staggered animation with gentle image settling; reduced motion disables these effects.
 
 ## Local preview
 
