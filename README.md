@@ -4,6 +4,8 @@ Static portfolio for [dheerajnamburu.com](https://dheerajnamburu.com/), publishe
 
 The first screen prioritizes Microsoft experience, AI delivery impact, work bullets, independent products, and contact links. Additional engineering detail, full app images, earlier experience, and technical skills follow.
 
+The main product previews use a three column row beside Microsoft work bullets on desktop. The geometric DN logo and favicon share custom vector letterforms in navy, white, and blue. SVG, ICO, and Apple touch icon variants are in `assets/brand/`.
+
 ## Local preview
 
 Run `python3 -m http.server 4198 --bind 127.0.0.1` from this directory.

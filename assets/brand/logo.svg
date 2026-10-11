@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 100" role="img" aria-labelledby="title">
+  <title id="title">Dheeraj Namburu</title>
+  <rect width="100" height="100" rx="22" fill="#10243A"/>
+  <path fill="#F7FAFC" fill-rule="evenodd" d="M22 20h29c19 0 30 12 30 30S70 80 51 80H22V20Zm15 13v34h13c10 0 16-6 16-17s-6-17-16-17H37Z"/>
+  <path fill="#8FC8F2" d="M37 20h12l16 27V20h14v60H66L51 54v26H37V20Z"/>
+  <path fill="#10243A" d="M38 34h12c9 0 14 5 14 16s-5 16-14 16H38V34Z"/>
+  <path fill="#8FC8F2" d="M38 34h7l19 31h-8L38 41V34Z"/>
+  <text x="126" y="65" fill="#10243A" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="42" font-weight="650" letter-spacing="-1.2">Dheeraj Namburu</text>
+</svg>

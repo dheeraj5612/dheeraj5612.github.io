@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="title">
+  <title id="title">Dheeraj Namburu monogram</title>
+  <rect width="100" height="100" rx="22" fill="#10243A"/>
+  <!-- The D is a single, sturdy silhouette; its upright also anchors the N. -->
+  <path fill="#F7FAFC" fill-rule="evenodd" d="M22 20h29c19 0 30 12 30 30S70 80 51 80H22V20Zm15 13v34h13c10 0 16-6 16-17s-6-17-16-17H37Z"/>
+  <!-- Faceted blue N, integrated at the shared upright. -->
+  <path fill="#8FC8F2" d="M37 20h12l16 27V20h14v60H66L51 54v26H37V20Z"/>
+  <!-- Restore the D's open counter around the N so both letters stay distinct. -->
+  <path fill="#10243A" d="M38 34h12c9 0 14 5 14 16s-5 16-14 16H38V34Z"/>
+  <path fill="#8FC8F2" d="M38 34h7l19 31h-8L38 41V34Z"/>
+</svg>
