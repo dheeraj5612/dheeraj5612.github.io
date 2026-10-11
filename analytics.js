@@ -77,7 +77,7 @@
     else if (url.pathname.endsWith('.pdf')) event('resume_download');
     else if (['commandgate.ai', 'fouro.ai', 'apps.apple.com'].includes(url.hostname)) {
       const project = url.hostname === 'commandgate.ai' ? 'CommandGate' : url.hostname === 'fouro.ai' ? 'Fouro Chat' : 'FilmyCam';
-      event('project_visit', { project, placement: 'card' });
+      event('project_visit', { project, placement: link.closest('.project-preview') ? 'image' : 'title' });
     } else if (['www.linkedin.com', 'github.com'].includes(url.hostname)) {
       event('social_profile_click', { platform: url.hostname.includes('linkedin') ? 'LinkedIn' : 'GitHub' });
     }
