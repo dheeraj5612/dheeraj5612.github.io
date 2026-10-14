@@ -1,0 +1,502 @@
+[
+  {
+    "slug": "ai-image-detector",
+    "name": "ImageClueCheck",
+    "url": "https://imagecluecheck.com/",
+    "domain": "imagecluecheck.com",
+    "what": "Check image metadata and provenance markers for AI clues",
+    "category": "AI and tech tools",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "ai-text-detector",
+    "name": "TextClueCheck",
+    "url": "https://textcluecheck.com/",
+    "domain": "textcluecheck.com",
+    "what": "Check writing patterns and repetition for AI clues",
+    "category": "AI and tech tools",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "software-lifecycle-alerts",
+    "name": "VersionEndWatch",
+    "url": "https://versionendwatch.com/",
+    "domain": "versionendwatch.com",
+    "what": "Track software end-of-life dates in a support queue",
+    "category": "AI and tech tools",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "astronomy-equipment-compatibility",
+    "name": "BackfocusLab",
+    "url": "https://backfocuslab.com/",
+    "domain": "backfocuslab.com",
+    "what": "Check telescope backfocus spacing and sensor coverage",
+    "category": "Hobbies, gear and travel",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "bicycle-fit-comparison",
+    "name": "BikeFitDelta",
+    "url": "https://bikefitdelta.com/",
+    "domain": "bikefitdelta.com",
+    "what": "Compare bicycle stack, reach and stem cockpit geometry",
+    "category": "Hobbies, gear and travel",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "forecast-adjusted-planting-planner",
+    "name": "PlantingWindowPlan",
+    "url": "https://plantingwindowplan.com/",
+    "domain": "plantingwindowplan.com",
+    "what": "Find a frost-safe planting window from forecast and crop limits",
+    "category": "Hobbies, gear and travel",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "cruise-port-planner",
+    "name": "PortDayPlan",
+    "url": "https://portdayplan.com/",
+    "domain": "portdayplan.com",
+    "what": "Plan a cruise port day around the all-aboard deadline",
+    "category": "Hobbies, gear and travel",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "motorcycle-ergonomics",
+    "name": "Rider Triangle",
+    "url": "https://ridertriangle.com/",
+    "domain": "ridertriangle.com",
+    "what": "Check rider knee and elbow angles from your measurements",
+    "category": "Hobbies, gear and travel",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "board-game-supplies-finder",
+    "name": "SleeveCount",
+    "url": "https://sleevecount.com/",
+    "domain": "sleevecount.com",
+    "what": "Match board game cards to sleeve packs by fit and price",
+    "category": "Hobbies, gear and travel",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "aquarium-stocking-planner",
+    "name": "TankStockPlan",
+    "url": "https://tankstockplan.com/",
+    "domain": "tankstockplan.com",
+    "what": "Check aquarium stocking against water ranges and tank size",
+    "category": "Hobbies, gear and travel",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "yarn-local-substitute-finder",
+    "name": "Yarnally",
+    "url": "https://yarnally.com/",
+    "domain": "yarnally.com",
+    "what": "Find yarn substitutes and compare gauge, fiber and skeins",
+    "category": "Hobbies, gear and travel",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "appliance-age-inspector-reports",
+    "name": "ApplianceAgeBook",
+    "url": "https://applianceagebook.com/",
+    "domain": "applianceagebook.com",
+    "what": "Record appliances and plan replacement reserves",
+    "category": "Home and property",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "mortgage-calculator",
+    "name": "HomeMathKit",
+    "url": "https://homemathkit.com/",
+    "domain": "homemathkit.com",
+    "what": "Estimate mortgage payments with taxes, PMI and extra payments",
+    "category": "Home and property",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "project-to-purchase-cut-planner",
+    "name": "KerfCount",
+    "url": "https://kerfcount.com/",
+    "domain": "kerfcount.com",
+    "what": "Turn wood project parts into cut layouts and a lumber list",
+    "category": "Home and property",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "permit-change-intelligence",
+    "name": "PermitRevisionDesk",
+    "url": "https://permitrevisiondesk.com/",
+    "domain": "permitrevisiondesk.com",
+    "what": "Track changes to NYC building permits over time",
+    "category": "Home and property",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "finish-layout-construction-toolkit",
+    "name": "RoomTakeoff",
+    "url": "https://roomtakeoff.com/",
+    "domain": "roomtakeoff.com",
+    "what": "Calculate tile, paint and trim materials and budget",
+    "category": "Home and property",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "electricity-time-of-use-comparison",
+    "name": "WattReplay",
+    "url": "https://wattreplay.com/",
+    "domain": "wattreplay.com",
+    "what": "Compare flat and time-of-use electricity cost from meter data",
+    "category": "Home and property",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "buyback-execution-tracker",
+    "name": "BuybackLedger",
+    "url": "https://buybackledger.com/",
+    "domain": "buybackledger.com",
+    "what": "Compare reported share buybacks with trading volume",
+    "category": "Markets and investing",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "dividend-income-calculator",
+    "name": "DividendPathCalc",
+    "url": "https://dividendpathcalc.com/",
+    "domain": "dividendpathcalc.com",
+    "what": "Model dividend growth, reinvestment, taxes and inflation",
+    "category": "Markets and investing",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "earnings-implied-move-database",
+    "name": "EarningsMoveBook",
+    "url": "https://earningsmovebook.com/",
+    "domain": "earningsmovebook.com",
+    "what": "Compare earnings implied moves with actual past moves",
+    "category": "Markets and investing",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "etf-overlap-analyzer",
+    "name": "FundOverlapCheck",
+    "url": "https://fundoverlapcheck.com/",
+    "domain": "fundoverlapcheck.com",
+    "what": "Compare two ETFs and see their shared holdings",
+    "category": "Markets and investing",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "insider-filing-context-tracker",
+    "name": "InsiderFilingContext",
+    "url": "https://insiderfilingcontext.com/",
+    "domain": "insiderfilingcontext.com",
+    "what": "Track SEC Form 4 insider filings back to their source",
+    "category": "Markets and investing",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "form4-radar",
+    "name": "InsiderFilingDesk",
+    "url": "https://insiderfilingdesk.com/",
+    "domain": "insiderfilingdesk.com",
+    "what": "Read SEC Form 4 insider filings with research guides",
+    "category": "Markets and investing",
+    "status": "live",
+    "indexable": false
+  },
+  {
+    "slug": "licensed-options-history",
+    "name": "OptionHistoryDesk",
+    "url": "https://optionhistorydesk.com/",
+    "domain": "optionhistorydesk.com",
+    "what": "Reproduce max-pain calculations from open-interest snapshots",
+    "category": "Markets and investing",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "option-positioning-dashboard",
+    "name": "OptionsPositionDesk",
+    "url": "https://optionspositiondesk.com/",
+    "domain": "optionspositiondesk.com",
+    "what": "Learn max pain and options positioning with sample data",
+    "category": "Markets and investing",
+    "status": "live",
+    "indexable": false
+  },
+  {
+    "slug": "short-interest-squeeze-tracker",
+    "name": "ShortInterestDesk",
+    "url": "https://shortinterestdesk.com/",
+    "domain": "shortinterestdesk.com",
+    "what": "Look up short interest and days to cover by ticker",
+    "category": "Markets and investing",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "stock-split-dilution-tracker",
+    "name": "SplitDilutionDesk",
+    "url": "https://splitdilutiondesk.com/",
+    "domain": "splitdilutiondesk.com",
+    "what": "Separate stock split mechanics from dilution",
+    "category": "Markets and investing",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "high-earner-rsu-calculator",
+    "name": "RSUPlanningDesk",
+    "url": "https://rsuplanningdesk.com/",
+    "domain": "rsuplanningdesk.com",
+    "what": "Compare RSU withholding with estimated tax owed",
+    "category": "Money, work and immigration",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "h1b-sponsor-intelligence",
+    "name": "SponsorFilingMap",
+    "url": "https://sponsorfilingmap.com/",
+    "domain": "sponsorfilingmap.com",
+    "what": "Look up H-1B labor-condition filings by employer",
+    "category": "Money, work and immigration",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "treasury-yield-optimizer",
+    "name": "TreasuryLadderCalc",
+    "url": "https://treasuryladdercalc.com/",
+    "domain": "treasuryladdercalc.com",
+    "what": "Compare T-bills with a savings account after taxes",
+    "category": "Money, work and immigration",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "visa-bulletin-tracker",
+    "name": "VisaDateLedger",
+    "url": "https://visadateledger.com/",
+    "domain": "visadateledger.com",
+    "what": "Compare your priority date with visa bulletin cutoffs",
+    "category": "Money, work and immigration",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "warn-employer-timelines",
+    "name": "WARNNoticeDesk",
+    "url": "https://warnnoticedesk.com/",
+    "domain": "warnnoticedesk.com",
+    "what": "Track WARN layoff notices, amendments and date changes",
+    "category": "Money, work and immigration",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "3d-print-job-costing",
+    "name": "SpoolMargin",
+    "url": "https://spoolmargin.com/",
+    "domain": "spoolmargin.com",
+    "what": "Price 3D print jobs from filament, machine time, labor and fees",
+    "category": "Small business and trades",
+    "status": "live",
+    "indexable": true
+  },
+  {
+    "slug": "home-network-poe-budget-planner",
+    "name": "Home Network PoE Budget Planner",
+    "url": "https://u50-home-network-poe-budget-planner.dheerajnamburu.workers.dev/",
+    "domain": null,
+    "what": "Plan switch ports, uplinks and PoE power headroom",
+    "category": "AI and tech tools",
+    "status": "preview",
+    "indexable": false
+  },
+  {
+    "slug": "nas-storage-backup-buy-planner",
+    "name": "NAS Storage and Backup Planner",
+    "url": "https://u50-nas-storage-backup-buy-planner.dheerajnamburu.workers.dev/",
+    "domain": null,
+    "what": "Compare RAID capacity with backup storage needs",
+    "category": "AI and tech tools",
+    "status": "preview",
+    "indexable": false
+  },
+  {
+    "slug": "camera-rig-power-compatibility",
+    "name": "Camera Rig Power Compatibility",
+    "url": "https://u50-camera-rig-power-compatibility.dheerajnamburu.workers.dev/",
+    "domain": null,
+    "what": "Check camera-rig power specs for voltage, current and headroom",
+    "category": "Hobbies, gear and travel",
+    "status": "preview",
+    "indexable": false
+  },
+  {
+    "slug": "espresso-accessory-compatibility",
+    "name": "Espresso Accessory Compatibility",
+    "url": "https://u50-espresso-accessory-compatibility.dheerajnamburu.workers.dev/",
+    "domain": null,
+    "what": "Compare espresso accessory sizes against machine references",
+    "category": "Hobbies, gear and travel",
+    "status": "preview",
+    "indexable": false
+  },
+  {
+    "slug": "rv-payload-trip-planner",
+    "name": "RV Payload and Trip Planner",
+    "url": "https://u50-rv-payload-trip-planner.dheerajnamburu.workers.dev/",
+    "domain": null,
+    "what": "Check RV payload, axle, hitch and trailer weight ratings",
+    "category": "Hobbies, gear and travel",
+    "status": "preview",
+    "indexable": false
+  },
+  {
+    "slug": "home-backup-power-runtime-planner",
+    "name": "Home Backup Power Runtime Planner",
+    "url": "https://u50-home-backup-power-runtime-planner.dheerajnamburu.workers.dev/",
+    "domain": null,
+    "what": "Estimate backup battery runtime from your home load list",
+    "category": "Home and property",
+    "status": "preview",
+    "indexable": false
+  },
+  {
+    "slug": "rental-turnover-budget-planner",
+    "name": "Rental Turnover Budget Planner",
+    "url": "https://u50-rental-turnover-budget-planner.dheerajnamburu.workers.dev/",
+    "domain": null,
+    "what": "Plan rental turnover tasks, labor, supplies and budget",
+    "category": "Home and property",
+    "status": "preview",
+    "indexable": false
+  },
+  {
+    "slug": "replacement-water-filter-finder",
+    "name": "Replacement Water Filter Finder",
+    "url": "https://u50-replacement-water-filter-finder.dheerajnamburu.workers.dev/",
+    "domain": null,
+    "what": "Compare replacement water filters by fit, life and yearly cost",
+    "category": "Home and property",
+    "status": "preview",
+    "indexable": false
+  },
+  {
+    "slug": "carton-pack-shipping-planner",
+    "name": "Carton Fit and Shipping Planner",
+    "url": "https://u50-carton-pack-shipping-planner.dheerajnamburu.workers.dev/",
+    "domain": null,
+    "what": "Compare carton sizes, rotations, cushioning and packaging cost",
+    "category": "Small business and trades",
+    "status": "preview",
+    "indexable": false
+  },
+  {
+    "slug": "catering-menu-cost-planner",
+    "name": "Catering Menu Cost Planner",
+    "url": "https://u50-catering-menu-cost-planner.dheerajnamburu.workers.dev/",
+    "domain": null,
+    "what": "Cost a catering menu from portions, yields, labor and margin",
+    "category": "Small business and trades",
+    "status": "preview",
+    "indexable": false
+  },
+  {
+    "slug": "commercial-cleaning-bid-builder",
+    "name": "Commercial Cleaning Bid Builder",
+    "url": "https://u50-commercial-cleaning-bid-builder.dheerajnamburu.workers.dev/",
+    "domain": null,
+    "what": "Build a cleaning bid from scope, labor, supplies and margin",
+    "category": "Small business and trades",
+    "status": "preview",
+    "indexable": false
+  },
+  {
+    "slug": "consumables-reorder-planner",
+    "name": "Consumables Reorder Planner",
+    "url": "https://u50-consumables-reorder-planner.dheerajnamburu.workers.dev/",
+    "domain": null,
+    "what": "Plan consumables reorders from daily use and lead time",
+    "category": "Small business and trades",
+    "status": "preview",
+    "indexable": false
+  },
+  {
+    "slug": "contractor-change-order-ledger",
+    "name": "Contractor Change-Order Ledger",
+    "url": "https://u50-contractor-change-order-ledger.dheerajnamburu.workers.dev/",
+    "domain": null,
+    "what": "Track approved and pending change-order value",
+    "category": "Small business and trades",
+    "status": "preview",
+    "indexable": false
+  },
+  {
+    "slug": "event-rental-kit-planner",
+    "name": "Event Rental Kit Planner",
+    "url": "https://u50-event-rental-kit-planner.dheerajnamburu.workers.dev/",
+    "domain": null,
+    "what": "Check rental kit stock against dated event bookings",
+    "category": "Small business and trades",
+    "status": "preview",
+    "indexable": false
+  },
+  {
+    "slug": "field-job-photo-report-builder",
+    "name": "Field Job Photo Report Builder",
+    "url": "https://u50-field-job-photo-report-builder.dheerajnamburu.workers.dev/",
+    "domain": null,
+    "what": "Build a printable field job report from photo captions and labor costs",
+    "category": "Small business and trades",
+    "status": "preview",
+    "indexable": false
+  },
+  {
+    "slug": "small-business-label-barcode-batch",
+    "name": "Small Business Label and Barcode Batch",
+    "url": "https://u50-small-business-label-barcode-batch.dheerajnamburu.workers.dev/",
+    "domain": null,
+    "what": "Create printable Code 39 barcode label batches from SKUs",
+    "category": "Small business and trades",
+    "status": "preview",
+    "indexable": false
+  },
+  {
+    "slug": "wholesale-moq-landed-cost-planner",
+    "name": "Wholesale MOQ Landed-Cost Planner",
+    "url": "https://u50-wholesale-moq-landed-cost-planner.dheerajnamburu.workers.dev/",
+    "domain": null,
+    "what": "Work out landed unit cost of an MOQ order with freight, FX and fees",
+    "category": "Small business and trades",
+    "status": "preview",
+    "indexable": false
+  }
+]

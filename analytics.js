@@ -75,6 +75,9 @@
     const url = new URL(link.href, location.href);
     if (url.protocol === 'mailto:') event('contact_email_click');
     else if (url.pathname.endsWith('.pdf')) event('resume_download');
+    else if (link.dataset.trackGroup === 'utility') event('utility_visit', { site: url.hostname, kind: link.dataset.kind || 'live' });
+    else if (link.dataset.trackGroup === 'game') event('game_visit', { site: url.hostname });
+    else if (link.dataset.trackGroup === 'utility-directory') event('utilities_directory_click', { placement: link.dataset.placement || 'page' });
     else if (['commandgate.ai', 'fouro.ai', 'apps.apple.com'].includes(url.hostname)) {
       const project = url.hostname === 'commandgate.ai' ? 'CommandGate' : url.hostname === 'fouro.ai' ? 'Fouro Chat' : 'FilmyCam';
       event('project_visit', { project, placement: link.closest('.project-preview') ? 'image' : 'title' });
