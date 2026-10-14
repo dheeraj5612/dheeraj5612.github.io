@@ -20,6 +20,7 @@ Phones show a short career summary, three work highlights, and a two column prod
 
 - `styles.css`: design tokens as custom properties on `:root`, shared components (header, buttons, section heads, contact panel, footer, analytics consent bar and privacy dialog), and the homepage layout. Mobile first, breakpoints at 380px, 720px and 1080px.
 - `utilities/utilities.css`: layout for the directory page only. It loads after `styles.css` and reuses its tokens.
+- `styles.css` opens with two fallback `@font-face` rules (`DM Sans Fallback`, `Instrument Serif Fallback`) that scale Arial and Times New Roman to the web font metrics, so text holds its place while the fonts load. Re-measure the overrides if a font file changes.
 - When `styles.css` or `analytics.js` changes, bump the `?v=` value on its tag in `index.html` and `404.html`, then regenerate the directory page (it copies the stylesheet link from the homepage). The `utilities.css` version is set inside `tools/gen_utilities.py`.
 
 ## Utility directory
@@ -48,7 +49,7 @@ Custom events: `contact_email_click`, `resume_download`, `project_visit`, `socia
 
 ## Assets and dependencies
 
-No CSS framework or other third party code is bundled. DM Sans and Instrument Serif are self hosted with their OFL licenses. Product previews show actual app screens: CommandGate in demo state, Fouro's public guest interface, and FilmyCam's App Store imagery. Full resolution versions are retained for the gallery, with smaller WebP copies offered through `srcset`. `assets/utilities/` holds one screenshot thumbnail per live utility site in two widths. `assets/share/og-home-v1.png` is the 1200x630 image used for link previews.
+No CSS framework or other third party code is bundled. DM Sans and Instrument Serif are self hosted with their OFL licenses. DM Sans is trimmed to the 400 to 700 weight range. Product previews show actual app screens: CommandGate in demo state, Fouro's public guest interface, and FilmyCam's App Store imagery. Full resolution versions are retained for the gallery, with smaller WebP copies offered through `srcset`. Where an image fills a box with `object-fit: cover`, its `sizes` value has to cover the larger of the box width and the box height times the image ratio, so re-measure `sizes` when the card layout changes. `assets/utilities/` holds one screenshot thumbnail per live utility site in two widths. `assets/share/og-home-v1.png` is the 1200x630 image used for link previews.
 
 ## Publishing
 

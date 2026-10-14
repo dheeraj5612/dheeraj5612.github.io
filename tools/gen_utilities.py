@@ -192,7 +192,7 @@ def main():
     for t in head_copy(home):
         head.append(t)
         if 'rel="stylesheet"' in t and not css:
-            head.append('<link rel="stylesheet" href="utilities.css?v=20261013-ux2">')
+            head.append('<link rel="stylesheet" href="utilities.css?v=20261013-ux3">')
             css = True
     if not css:
         die("homepage: styles.css link not found")
